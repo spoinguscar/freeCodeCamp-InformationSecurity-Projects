@@ -1,0 +1,23 @@
+Open ports: [80] 
+
+Open ports: [8080] 
+
+Open ports for 104.26.10.78
+PORT     SERVICE
+443      https 
+
+Open ports for hackthissite.org (137.74.187.104)
+PORT     SERVICE
+443      https 
+
+Open ports for scanme.nmap.org (45.33.32.156)
+PORT     SERVICE
+22       ssh
+80       http 
+
+***Tests***
+........
+----------------------------------------------------------------------
+Ran 8 tests in 60.661s
+
+OK
